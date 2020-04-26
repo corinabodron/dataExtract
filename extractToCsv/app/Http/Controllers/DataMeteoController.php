@@ -97,7 +97,7 @@ class DataMeteoController extends Controller
                 fclose($fp);
             }else { continue; }
         }
-        echo "Fisierele pentru anul 2011 au fost exportate cu succes";
+        echo "Fisierele au fost exportate cu succes";
     }
 }
 
