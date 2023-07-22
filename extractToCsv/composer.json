@@ -6,7 +6,7 @@
     "type": "project",
     "require": {
         "php": ">=5.5.9",
-        "laravel/framework": "5.2.*",
+        "laravel/framework": "5.5.*",
         "kub-at/php-simple-html-dom-parser": "^1.9",
       "ext-curl": "*",
         "ext-http": "*"
